@@ -4,4 +4,4 @@ This repo aims to help you decipher the UAL. The UAL is the Microsoft 365 Unifie
 
 [01-Access](01-Access.md) - This page walks through setting up initial access to the UAL using Purview Audit.
 
-[02-New-RoleGroup] - This page will break down the auditing of New-RoleGroup operation event including key fields of note and how to decipher them
+[02-New-RoleGroup] - This upcoming page will break down the auditing of New-RoleGroup operation event including key fields of note and how to decipher them

@@ -1,6 +1,6 @@
 # DecipheringUAL
 
-This repo aims to help you decipher the UAL. The UAL is the Microsoft 365 Unified Audit Log.
+This repo aims to help you decipher the UAL from a Digital Forensics & Incident Response (DFIR) perspective. The UAL is the Microsoft 365 Unified Audit Log.
 
 I use the decipher term here purposely because Microsoft have a lot of GUID's and ID's in the Audit log entries and there are helpful ways available to resolve these into more meaningful entities. Additionally, it isn't always clear which fields are important to look at so I'll provide some insight here.
 

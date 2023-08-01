@@ -84,3 +84,5 @@ This shows that the member added to the EXO role group was Johanna L.
 Now that you've seen how to interpret the audit log record for when an EXO Role Group has been created, what can you do?
 * If your UAL is being sent to a SIEM, perhaps you can look at creating a detection for when specific members are added to EXO Role Groups
 * Set up a detection for when new role groups are created with specific EXO roles associated to them.
+* If your company has a naming convention for EXO role groups, regularly review the logs for any new ones that don't adhere to this standard or have weird names as these could be set up by a threat actor. 
+* Similarly look for any EXO role groups with weird descriptions.

@@ -60,7 +60,7 @@ The Parameters object shown below contains one piece of useful information relat
 
 | Field | Insight |
 |:---|:---|
-| Parameters | From this we can see that the command was run with a flag of "-Identity "eDiscoveryManager"" |
+| Parameters | From this we can see that the command was run with a flag of "-Identity "Organization Management"" |
 
 > [!IMPORTANT]
 > This is important because the [Organization Management](https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/scc-permissions?view=o365-worldwide#:~:text=View%2DOnly%20Recipients-,Organization%20Management,-1) role group is highly privileged. It's a group that Global Admins are added to by default.

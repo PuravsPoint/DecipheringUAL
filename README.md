@@ -12,4 +12,6 @@ Below is a break down of the pages within this repo:
 
 [03-Add-RoleGroupMember](03-Add-RoleGroupMember.md) - This page will help you investigate the audit event for the Add-RoleGroupMember operation from a DFIR perspective.
 
-**[04-Get-RoleGroup]** - This upcoming page will help you investigate the audit event for the Get-RoleGroup operation from a DFIR perspective.
+[04-Get-RoleGroup](04-Get-RoleGroup.md) - This page will help you investigate the audit event for the Get-RoleGroup operation from a DFIR perspective.
+
+[05-Get-RoleGroupMember) - This upcoming page will help you investigate the audit event for the Get-RoleGroupMember operation from a DFIR perspective.

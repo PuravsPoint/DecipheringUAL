@@ -16,7 +16,7 @@ Below is a break down of the pages within this repo:
 
 [05-Get-RoleGroupMember](05-Get-RoleGroupMember.md) - This page will help you investigate the audit event for the Get-RoleGroupMember operation from a DFIR perspective.
 
-[06-Update-RoleGroupMember](06-update-rolegroupmember.md) - This page will help you investigate the audit event for the Update-RoleGroupMember operation from a DFIR perspective.
+[06-Update-RoleGroupMember](06-Update-RoleGroupMember.md) - This page will help you investigate the audit event for the Update-RoleGroupMember operation from a DFIR perspective.
 
 [07-Set-TeamsProtectionPolicy] - This upcoming page will help you investigate the audit event for the Set-TeamsProtectionPolicy operation from a DFIR perspective.
 

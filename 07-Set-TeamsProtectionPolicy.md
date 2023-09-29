@@ -43,10 +43,10 @@ This page will help you investigate the audit event for the Set-TeamsProtectionP
 
 | Field | Insight [(Source)](https://learn.microsoft.com/en-us/purview/audit-log-detailed-properties) |
 |:---|:---|
-| CreationTime | From this, we know that the command was run on "27th September 2023 at 10:59 PM UTC"
-| ResultStatus | From this, we know that the command executed successfully; value of "True" | 
+| CreationTime | From this, we know that the policy was modified on "27th September 2023 at 10:59 PM UTC"
+| ResultStatus | From this, we know that the policy was modified successfully; value of "True" | 
 | UserId | From this, we know that that the user that modified the policy was "attacker@domain(.)onmicrosoft.com" |
-| ClientIP | From this, we would know which IP address the command was ran from. In this case, it's been redacted.
+| ClientIP | From this, we would know which IP address where the request to modify the policy came from. In this case, it's been redacted.
 
 <h2>Key fields of note</h2>
 

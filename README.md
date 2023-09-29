@@ -23,4 +23,8 @@ Below is a break down of the pages within this repo:
 <br>
 <h3>Notable features:</h3>
 
-[Issue 88 of Rod Trent's Microsoft Defender Weekly Wrap](https://microsoftdefender.substack.com/i/135906120/defender-things)
+📰 [Issue 88 of Rod Trent's Microsoft Defender Weekly Wrap](https://microsoftdefender.substack.com/i/135906120/defender-things)
+
+📰 [Issue 93 of Rod Trent's Microsoft Defender Weekly Wrap](https://microsoftdefender.substack.com/i/137011076/things-that-are-related)
+
+📹 [Investigation of Business Email Compromise using UAL YouTube video by Sofia Marin](https://youtu.be/5qA6J6HetNs)

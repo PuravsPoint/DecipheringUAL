@@ -28,3 +28,5 @@ Below is a break down of the pages within this repo:
 📰 [Issue 93 of Rod Trent's Microsoft Defender Weekly Wrap](https://microsoftdefender.substack.com/i/137011076/things-that-are-related)
 
 📹 [Investigation of Business Email Compromise using UAL YouTube video by Sofia Marin](https://youtu.be/5qA6J6HetNs)
+
+📚 [DFIR Diva](https://training.dfirdiva.com/listing/decipheringual-microsoft-365-unified-audit-log-puravspoint)

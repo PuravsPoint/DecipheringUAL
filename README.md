@@ -20,6 +20,8 @@ Below is a break down of the pages within this repo:
 
 [07-Set-TeamsProtectionPolicy](https://github.com/PuravsPoint/DecipheringUAL/blob/main/07-Set-TeamsProtectionPolicy.md) - This page will help you investigate the audit event for the Set-TeamsProtectionPolicy operation from a DFIR perspective.
 
+[08-New-TenantAllowBlockListItems] - This upcoming page will help you investigate the audit event for the New-TenantAllowBlockListItems operation from a DFIR perspective.
+
 <br>
 <h3>Notable features:</h3>
 
@@ -30,3 +32,5 @@ Below is a break down of the pages within this repo:
 📹 [Investigation of Business Email Compromise using UAL YouTube video by Sofia Marin](https://youtu.be/5qA6J6HetNs)
 
 📚 [DFIR Diva](https://training.dfirdiva.com/listing/decipheringual-microsoft-365-unified-audit-log-puravspoint)
+
+📰 [Issue 95 of Rod Trent's Microsoft Defender Weekly Wrap](https://microsoftdefender.substack.com/i/137479106/defender-for-office-things)

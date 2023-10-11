@@ -18,9 +18,11 @@ Below is a break down of the pages within this repo:
 
 [06-Update-RoleGroupMember](06-Update-RoleGroupMember.md) - This page will help you investigate the audit event for the Update-RoleGroupMember operation from a DFIR perspective.
 
-[07-Set-TeamsProtectionPolicy](https://github.com/PuravsPoint/DecipheringUAL/blob/main/07-Set-TeamsProtectionPolicy.md) - This page will help you investigate the audit event for the Set-TeamsProtectionPolicy operation from a DFIR perspective.
+[07-Set-TeamsProtectionPolicy](07-Set-TeamsProtectionPolicy.md) - This page will help you investigate the audit event for the Set-TeamsProtectionPolicy operation from a DFIR perspective.
 
-[08-New-TenantAllowBlockListItems] - This upcoming page will help you investigate the audit event for the New-TenantAllowBlockListItems operation from a DFIR perspective.
+[08-New-TenantAllowBlockListItems](08-New-TenantAllowBlockListItems.md) - This page will help you investigate the audit event for the New-TenantAllowBlockListItems operation from a DFIR perspective.
+
+[09-Set-TenantAllowBlockListItems] - This upcoming page will help you investigate the audit event for the Set-TenantAllowBlockListItems operation from a DFIR perspective.
 
 <br>
 <h3>Notable features:</h3>

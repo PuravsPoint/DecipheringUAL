@@ -49,7 +49,7 @@ This page will help you investigate the audit event for the Get-RoleGroup operat
 |:---|:---|
 | CreationTime | From this, we know that the command was run on "16th August 2023 at 4:44 PM UTC" |
 | UserId | From this, we know that that the user that ran the command was "attacker@domain(.)onmicrosoft.com" |
-| ResultStatus | From this, we know that the command executed successfully; value of "True" | 
+| ResultStatus | From this, we know that the command executed successfully; value of "Success" | 
 
 <h2>Key fields of note</h2>
 

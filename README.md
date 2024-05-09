@@ -38,3 +38,5 @@ Below is a break down of the pages within this repo:
 📰 [Issue 95 of Rod Trent's Microsoft Defender Weekly Wrap](https://microsoftdefender.substack.com/i/137479106/defender-for-office-things)
 
 📹 [Festive Tech Calendar 2023 - Day 3](https://youtu.be/osJ1L4wNgFc)
+
+📰 [Ctrl + Alt + Data Security - 9th May 2024 (Edition 8)](https://www.linkedin.com/pulse/microsoft-data-security-updates-9th-may-2024-beau-faull-60tbc/)

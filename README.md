@@ -40,3 +40,5 @@ Below is a break down of the pages within this repo:
 📹 [Festive Tech Calendar 2023 - Day 3](https://youtu.be/osJ1L4wNgFc)
 
 📰 [Ctrl + Alt + Data Security - 9th May 2024 (Edition 8)](https://www.linkedin.com/pulse/microsoft-data-security-updates-9th-may-2024-beau-faull-60tbc/)
+
+📚 [Invictus IR - Incident Response in the Microsoft Cloud training)](https://www.linkedin.com/feed/update/urn:li:activity:7195497242126938114/)
